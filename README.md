@@ -9,24 +9,18 @@
 - 🌱 Learning: System Design & DevOps
 
 ---
+## 🏆 Awards & Achievements
 
-## 🏆 수상 내역
+- 🥇 **2025 ICT·IS Digital New Technology Idea & SW Development Contest (Chungcheong Region)** *(Oct 2025)*  
+  *Excellence Award (Top Prize)*  
+  - Hosted by: Ministry of Science and ICT, NIPA  
 
-- 🥇 **2025 충청권 ICT·IS 디지털신기술 아이디어·SW개발 공모전**  
-  *최우수상*  
-  - 주관: 과학기술정보통신부, 정보통신산업진흥원(NIPA)  
-  - 수상일: 2025.10.14
+- 🏅 **2025 Future Tomorrow Work Experience Best Practice Contest** *(Nov 2025)*  
+  *Minister of Employment and Labor Award*  
+  - Hosted by: Ministry of Employment and Labor, KCCI  
 
-- 🏅 **2025 미래내일 일경험 우수사례 공모전**  
-  *고용노동부 장관상*  
-  - 주관: 고용노동부, 대한상공회의소  
-  - 수상일: 2025.11.24
-
-- 🎓 **2025 충북대학교 캡스톤디자인 경진대회**  
-  *최우수상*  
-  - 주관: 충북대학교  
-  - 수상일: 2025.11
- 
+- 🎓 **CBNU Capstone Design Competition 2025** *(Nov 2025)*  
+  *Excellence Award (Top Prize)*
 ---
 <!-- Tech Stack -->
 ## 🛠 Tech Stack
@@ -53,7 +47,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
-
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
@@ -66,6 +59,6 @@
 <!-- Contact -->
 ## 📫 Contact Me
 
-<!--[![Tech Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=Micro.blog&logoColor=white)](https://your-blog-link.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://your-notion-link.com)  -->
+[![Tech Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=Micro.blog&logoColor=white)](https://devoopsh.tistory.com/)  
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://your-notion-link.com)  -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
