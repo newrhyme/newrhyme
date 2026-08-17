@@ -54,8 +54,8 @@
 ## GitHub Stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=newrhyme&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&rank_icon=github&custom_title=Sanghyun's%20GitHub%20Stats">
-  <img alt="Sanghyun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=newrhyme&show_icons=true&hide_border=true&rank_icon=github&custom_title=Sanghyun's%20GitHub%20Stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=newrhyme&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=00000000&rank_icon=github&custom_title=Sanghyun's%20GitHub%20Stats">
+  <img alt="Sanghyun's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=newrhyme&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&custom_title=Sanghyun's%20GitHub%20Stats">
 </picture>
 
 ---
